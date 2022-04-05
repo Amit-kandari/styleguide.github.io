@@ -1,0 +1,66 @@
+#particles-js{
+    width: 100%;
+    height: 100vh;
+    background: #000;
+    margin-top: 30px;
+}
+#particles-js p{
+    color: #fff;
+    font-size: 34px;
+    font-weight: bold;
+}
+.owner{
+    position: relative;
+    top: 10%;
+    color: #fff;
+    text-align: center;
+}
+
+
+h2{
+    margin-top: 20px;
+    color: black;
+    font-size: 30px;
+}
+
+.ImgGallery {
+      margin-top: 15px;
+}
+.ImgGallery figure img{
+    width: 100%;
+    height: auto;
+}
+.ImgGallery p{
+    text-align: justify;
+}
+
+.AboutDistrict{
+    margin-top: 35px;
+}
+
+figure img{
+    width: 100%;
+    height: auto;
+}
+
+.NextGallery {
+       margin-top: 35px;
+}
+
+section .Sareee{
+    background-image: url(../Images/Img-24.jpg);
+    background-size: cover;
+    height: 100vh;
+    background-position: center;
+    background-attachment: fixed;
+    padding-left: 0px !important;
+    padding-right: 0px !important;
+    max-width: 100%;
+    width: 100%;
+}
+
+.copyright{
+    font-size: 24px;
+    color: #000;
+    font-weight: bold;
+}
